@@ -33,6 +33,7 @@ export default defineConfig({
       {
         text: 'Resources',
         items: [
+          { text: 'Adobe Aero', link: '/Resources/AdobeAero/adobe-aero' },
           { text: '3D Printing', link: '/Resources/Makerspace/makerspace' },
           { text: 'Linkedin Learning', link: '/Resources/LinkedinLearning/linkedinLearning' },
           { text: 'SketchFab', link: '/Resources/SketchFab/sketchfab' },
