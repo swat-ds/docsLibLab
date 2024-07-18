@@ -3,10 +3,6 @@
 > [!NOTE]
 > Last Updated **4th June, 2024**
 
-::: warning
-Website not deployed
-:::
-
 Welcome to the **Immersive Realities Initiative at Swarthmore**, where we provide access and training in cutting-edge immersive technologies such as virtual reality and augmented reality, empowering students to explore new dimensions and unleash their creative potential. Join us in shaping the future of reality through immersive experiences and interdisciplinary collaboration.
 
 ## Mission
