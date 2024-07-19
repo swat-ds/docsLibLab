@@ -9,7 +9,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      { text: 'Home', link: 'https://swat-ds.github.io/LibLabMain/' },
       { text: 'Get Started', link: '/GettingStarted/introduction' }
     ],
 
