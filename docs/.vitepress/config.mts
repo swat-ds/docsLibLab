@@ -41,7 +41,8 @@ export default defineConfig({
             text: 'Spatial.io',
             link: '/Resources/Spatial-io/spatial-io',
             items: [ { text: 'Quick Start', link: '/Resources/Spatial-io/tutorial' } ]
-          }
+          },
+          { text:  '2D Scans - Processing', link: '/Resources/2dScanning/2dScanning' }
         ] 
       }
 
