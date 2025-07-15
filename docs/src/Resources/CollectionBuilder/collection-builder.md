@@ -9,12 +9,14 @@
 
 ## Step-by-Step Guide
 
+Here is a video that demonstrates the steps described below: https://drive.google.com/file/d/1QhlH_lQVu1rwzb7-ggfVkpMOPFihrX6d/view?usp=sharing 
+
 - There are 3 parts:
     - Uploading images
     - Uploading 3D model (if applicable)
     - Uploading updated .csv file
 
-1. To upload the images, pull the latest version of the repository to VSCode on your local machine. It is sometimes possible to do this on the github website, but the file size for that is limited.
+1. To upload the images, pull the latest version of the repository to VSCode on your local machine. It is sometimes possible to upload directly from the Github website, but the file size for doing so limited.
 2. Find the folder of the repository in Finder 
     - You can do this by clicking on Finder, then clicking on “Go” on the top bar, then “Home”. You should be able to find the “liblab_peace_collection” folder.
 3. Drag the photos (in PNG format) you would like to upload into the “objects” folder.
