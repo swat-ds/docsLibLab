@@ -9,7 +9,7 @@
 
 ## Step-by-Step Guide
 
-Here is a video that demonstrates the steps described below: https://drive.google.com/file/d/1QhlH_lQVu1rwzb7-ggfVkpMOPFihrX6d/view?usp=sharing 
+- Here is a video that demonstrates the steps described below: https://drive.google.com/file/d/1QhlH_lQVu1rwzb7-ggfVkpMOPFihrX6d/view?usp=sharing 
 
 - There are 3 parts:
     - Uploading images
