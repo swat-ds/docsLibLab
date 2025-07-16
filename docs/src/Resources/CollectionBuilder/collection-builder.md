@@ -17,7 +17,7 @@
     - Uploading updated .csv file
 
 1. To upload the images, pull the latest version of the repository to VSCode on your local machine. It is sometimes possible to upload directly from the Github website, but the file size for doing so limited.
-2. Find the folder of the repository in Finder 
+2. Find the folder of the repository in Finder (this is for Mac, if you're using Windows, find the folder in your computer)
     - You can do this by clicking on Finder, then clicking on “Go” on the top bar, then “Home”. You should be able to find the “liblab_peace_collection” folder.
 3. Drag the photos (in PNG format) you would like to upload into the “objects” folder.
 4. Next, you want to generate thumbnails and small images. 
