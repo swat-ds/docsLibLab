@@ -2,10 +2,13 @@
 
 ## Pre-requisites
 
-- You must have a Github account, and Jekyll and VSCode installed 
+- You must have the following installed:
     - Github: https://docs.github.com/en/get-started
     - Jekyll: https://jekyllrb.com/docs/installation/
     - VSCode: https://code.visualstudio.com/download 
+    - Brew: https://brew.sh/
+    - Ruby: https://www.ruby-lang.org/en/documentation/installation/
+
 
 ## Step-by-Step Guide
 
