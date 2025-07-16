@@ -19,7 +19,7 @@ To remesh models, you will need the following:
 
 Enter the following information into QuadRemesher after enabling the addon in Blender. The addon will open a menu that prompts you to register the addon.
 
-Activation key
+Activation key:
 QRMI-7LFS-7FMB-GGPL
 
 Use with:
@@ -84,7 +84,6 @@ If the above solutions are lacking, or don’t work for your use case:
 - Refer to Blender documentation or 3D tutorials on the web.
 - Contact the Digital Scholarship team for guidance.
 
-:::
-Questions? Please contact:
-(dryulim1@swarthmore.edu) or (digitalscholarship@swarthmore.edu) 
-:::
+
+> Questions? 
+>Please contact: (dryulim1@swarthmore.edu) or (digitalscholarship@swarthmore.edu) 
