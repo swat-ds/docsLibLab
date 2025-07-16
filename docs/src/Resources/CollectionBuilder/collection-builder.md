@@ -2,7 +2,7 @@
 
 ## Pre-requisites
 
-- You must have the following installed:
+You must have the following installed:
     - Github: https://docs.github.com/en/get-started
     - Jekyll: https://jekyllrb.com/docs/installation/
     - VSCode: https://code.visualstudio.com/download 
