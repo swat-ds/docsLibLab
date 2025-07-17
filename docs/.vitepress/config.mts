@@ -47,7 +47,8 @@ export default defineConfig({
             link:  '/Resources/3DScanning/3DScanning',
             items: [ { text: 'Advanced 3D Optimization', link: '/Resources/3DScanning/3DOptimization' } ]
           },
-          {  text:  'Adding Items to Collection Builder',  link:  '/Resources/CollectionBuilder/collection-builder'  }
+          {  text:  'Adding Items to Collection Builder',  link:  '/Resources/CollectionBuilder/collection-builder'  },
+          {  text:  'Photogrammetry',  link:  '/Resources/3DScanning/Photogrammetry'  }
         ] 
       }
 
