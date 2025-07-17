@@ -139,6 +139,7 @@ This applies to Lightroom Classic.
     - Mapping mode: **Generic**
     - Blending mode: **Mosaic**
     - Leave everything else as default
+16. To decimate the model, at the toolbar at the top, click Tools > Model > Decimate Model. Make the target face count half of what the source face count is and click OK.
 
 
 
