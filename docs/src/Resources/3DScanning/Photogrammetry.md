@@ -141,6 +141,24 @@ This applies to Lightroom Classic.
     - Leave everything else as default
 16. To decimate the model, at the toolbar at the top, click Tools > Model > Decimate Model. Make the target face count half of what the source face count is and click OK.
 
+To scale the object based on a measurement in some of the photos is a Pro feature. If you have Pro, this tutorial instructs you on how to do so: https://www.youtube.com/watch?v=wR1W1q_gnH0
+
+### How to Reduce File Size for Upload
+1. To do so, we want to make a new model at a with fewer polygons through baking 
+2. Go to **Workflow** > **Build Texture**
+    - Change to **Normal Map**
+    - Source Data automatically changes to **3D Model**, choose the highest quality model
+    - Leave everything else as default
+3. You can't 3D print with a hole in the bottom of the model. To close the hole: 
+    - Choose cleaning option under Selection and delete the ground
+    - Tools > Model > Close Holes
+4. File > Export
+    - .stl for 3D printing
+    - .obj or .fpx for computer graphics
+
+
+
+
 
 
 
