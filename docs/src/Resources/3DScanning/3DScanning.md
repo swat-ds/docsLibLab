@@ -32,7 +32,8 @@ Throughout the process, this scale will tell you whether you must move the scann
 9. Under Scan Settings on the right, go through and pick the desired settings:
     - Under Accuracy, it may be helpful to select “High Accuracy,” which is better for Merging.
     - Objects with complex geometry benefit from “Feature Tracking,” while objects with flatter surfaces benefit from “Marker Tracking,” in which markers must be placed on the object.
-    - Make sure “Color Scanning” is toggled off for the first pass, this simplifies the process.
+    - Toggle on "Color Scanning" if you want to capture a lot of color
+    - Toggle on "Base Removal" if you want the scanner to disregard the surface the object is on. 
 
 ![Screenshot of pop-up.](13.png)
 
@@ -109,11 +110,13 @@ If there are random artifacts you want to discard that Isolation isn’t detecti
 
 ![Screenshot of pop-up.](26.png)
 
+- If you chose "Color Scanning," you may also want to click "Texture" so that the finer details become visible.
+
 To save the scan, click “File” > “Save.”
 
 ![Screenshot of pop-up.](27.png)
 
-To export the scan, click the Export button on the top bar. Usually, you can select “Mesh Model” from the dropdown menu, if the scan will be displayed in Collection Builder, select "Texture Model".
+To export the scan, click the Export button on the top bar. Usually, you can select “Mesh Model” from the dropdown menu, if the scan is in color and will be displayed in Collection Builder, select "Texture Model".
 
 ![Screenshot of pop-up.](28.png)
 
