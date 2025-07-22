@@ -1,13 +1,28 @@
 # How to Add Items to Collection Builder
 
-## Pre-requisites
+## Pre-requisites for Windows
 
 You must have the following installed:
-- Github: https://docs.github.com/en/get-started
-- Jekyll: https://jekyllrb.com/docs/installation/
-- VSCode: https://code.visualstudio.com/download 
-- Brew: https://brew.sh/
-- Ruby: https://www.ruby-lang.org/en/documentation/installation/
+- [Git](https://git-scm.com/downloads/win)
+- [VSCode](https://code.visualstudio.com/Download) 
+- [Ruby](https://rubyinstaller.org/)
+- [ImageMagick](https://imagemagick.org/script/download.php#windows)
+
+The following is reference for packages downloaded through the command line:
+- [Jekyll](https://jekyllrb.com/docs/installation/windows/)
+- [Chocolatey](https://chocolatey.org/install) (Alternative package manager for Windows)
+
+## Pre-requisites for MacOS
+
+You must have the following installed:
+- [VSCode](https://code.visualstudio.com/Download)
+- [Brew](https://brew.sh/)
+
+The following is reference for packages downloaded through the command line:
+- [Git](https://formulae.brew.sh/formula/git#default)
+- [Ruby](https://formulae.brew.sh/formula/ruby#default)
+- [Jekyll](https://jekyllrb.com/docs/installation/macos/)
+- [ImageMagick](https://formulae.brew.sh/formula/imagemagick#default)
 
 
 ## Step-by-Step Guide
