@@ -1,6 +1,9 @@
-# How to Add Items to Collection Builder
+# How to Maintain a Collection Builder Site
 
-## Pre-requisites for Windows
+## Prerequisites for Windows
+
+- The following content is available in video form:
+    - [Installing Prerequisites for Windows](https://drive.google.com/file/d/1XqMJ_1MAJfvSnwnP9j36I56wSvEG49s9/view?usp=drive_link)
 
 You must have the following installed:
 - [Git](https://git-scm.com/downloads/win)
@@ -12,7 +15,10 @@ The following is reference for packages downloaded through the command line:
 - [Jekyll](https://jekyllrb.com/docs/installation/windows/)
 - [Chocolatey](https://chocolatey.org/install) (Alternative package manager for Windows)
 
-## Pre-requisites for MacOS
+## Prerequisites for MacOS
+
+- The following content is available in video form:
+    - [Installing Prerequisites for MacOS](https://drive.google.com/file/d/141ufNNZJxoWmrKAv9IA7N_WYJya2VPU8/view?usp=drive_link)
 
 You must have the following installed:
 - [VSCode](https://code.visualstudio.com/Download)
@@ -27,14 +33,17 @@ The following is reference for packages downloaded through the command line:
 
 ## Step-by-Step Guide
 
-- Here is a video that demonstrates the steps described below: https://drive.google.com/file/d/1QhlH_lQVu1rwzb7-ggfVkpMOPFihrX6d/view?usp=sharing 
+- The following content is available in video form:
+    - [Maintaining CollectionBuilder in Windows](https://drive.google.com/file/d/1km9CS4gF-Gp9rLnmWwxFJwVL6yQaSYud/view?usp=drive_link)
+    - [Maintaining CollectionBuilder in MacOS](https://drive.google.com/file/d/1QhlH_lQVu1rwzb7-ggfVkpMOPFihrX6d/view?usp=drive_link)
+    - [Explaining CollectionBuilder Directories and Rake Tasks](https://drive.google.com/file/d/1XZX52aNUN0q7pX-mPBBn77DgXegl4wbu/view?usp=drive_link)
 
 - There are 3 parts:
     - Uploading images
     - Uploading 3D model (if applicable)
     - Uploading updated .csv file
 
-1. To upload the images, pull the latest version of the repository to VSCode on your local machine. It is sometimes possible to upload directly from the Github website, but the file size for doing so limited.
+1. To upload the images, pull the latest version of the repository to VSCode on your machine. It is sometimes possible to upload directly from the Github website, but the file size for doing so limited.
 2. Find the folder of the repository in Finder (this is for Mac, if you're using Windows, find the folder in your computer)
     - You can do this by clicking on Finder, then clicking on “Go” on the top bar, then “Home”. You should be able to find the “liblab_peace_collection” folder.
 3. Drag the photos (in PNG format) you would like to upload into the “objects” folder.

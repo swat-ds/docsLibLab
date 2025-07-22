@@ -2,7 +2,7 @@
 
 ## Pre-Requisites
 
-- The RevoScan5 software must be downloaded to your device. This is link details how to do so: https://www.revopoint3d.com/pages/support. There are also a few tutorials that provide a general idea of the process.
+- The RevoScan5 software must be downloaded to your device. The software is available from the [RevoScan website](https://www.revopoint3d.com/pages/support). There are also a few tutorials that provide a general idea of the process.
 - The RevoPoint Scanner is located in the big closet in the LibLab Kitchen, ask for the key at the circulation desk. 
 
 ## Step-by-Step Guide
