@@ -122,4 +122,4 @@ To export the scan, click the Export button on the top bar. Usually, you can sel
 
 ## Conclusion
 
-More editing may be required depending on the quality of the scan, but the models may be uploaded to Collection Builder. 
+More editing may be required depending on the quality of the scan. Before the models are uploaded to Collection Builder, make sure to set the object upright in Blender. The 3D viewer in Collection Builder is limited on certain axes, so setting it upright allows for full range of view. Also when exporting from Blender, ensure you're exporting just the object and not the environment. This is done by clicking File > Export, and then under General on the right, there is an option to Include: Selection Only. Then export as usual.  
